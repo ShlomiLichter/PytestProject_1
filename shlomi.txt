@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Hi Shlomi
-=======
-Hi
->>>>>>> c1b347a (first commit)
